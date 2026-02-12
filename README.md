@@ -16,7 +16,7 @@ The Adil Store wants to create an annual sales report for 2022. So that, the own
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Adilkhan111-eng/Project/blob/main/Adil%20Store%20Report%20SS.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
